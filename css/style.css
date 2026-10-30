@@ -1,0 +1,194 @@
+/* WooBlue Template by -xpspx- */
+
+
+/* Navigation */
+a{
+	color:inherit;
+	text-decoration:none;
+}
+#menu
+{
+position: relative;
+background: #FFFFFF url('../images/navbar.png') no-repeat top left;
+height: 38px;
+padding: 0em 1.0em 0em 1.0em;
+}
+
+#menu ul
+{
+position: absolute;
+top: 0.9em;
+}
+
+
+#menu ul li
+{
+position: relative;
+display: inline;
+}
+
+#menu ul li a
+{
+padding: 0.5em 1.0em 0.9em 1.0em;
+color: white;
+text-decoration: none;
+}
+
+#menu ul li a:hover
+{
+text-decoration: underline;
+}
+
+
+/* Misc. */
+
+* {
+	margin:0;
+	padding:0;
+	}
+body {
+	font-family:Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background:url(../images/bg.jpg) repeat;
+	margin:10px 0 25px 0; 
+	
+	}
+
+
+/*Header */
+
+#wrapper {
+	width:920px;
+	margin:0 auto;
+	}
+#header {
+	height:146px;
+	background-image:url(../images/header.png);
+	background-repeat:no-repeat;
+	padding-left:15px;
+	}
+
+
+
+#content {
+	background:url(../images/zz.PNG) top repeat-x #ffffff;
+        padding-top:10px;
+        padding-bottom:60px;
+        
+	}
+
+#contenttext {
+        margin-left:5px;
+        overflow: hidden;
+             }
+#footer {
+        color:white;
+        height:47px;
+        background-image:url(../images/footer.png);
+        padding-left: 5px;
+        line-height:16px;
+	}
+
+h2 { 
+color:#444444;
+text-decoration:underline;
+   }
+#contentProduct{
+	width:inherit;
+	min-height:200px;
+	overflow:hidden;
+}
+.listProduct{
+	width:200px;
+	height:240px;
+	border:solid thin #999;
+	float:left;
+	margin:10px 20px 0 0;
+}
+.productPicture{
+	width: inherit;
+	height: 180px;
+}
+.productTitle{
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	margin: 5px 0 0 0;
+	height:40px;
+}
+.productPrice{
+	font-size:12px;
+	color:#00F;
+	text-align:center;
+	margin: -10px 0 0 0;
+}
+#cart{
+	width:200px;
+	height:50px;
+	float:right;
+	background:#003;
+	line-height:40px;
+	color:#FFF;
+	text-align:center;
+	font-size:16px;
+	position:fixed;
+	right:20px;
+	z-index:10000;
+}
+input#orderButton{
+	width:150px;
+	height:30px;
+	background:#03F;
+	color:#FFF;
+	border-radius:5px 5px 5px 5px;
+}
+#listData{
+	width:inherit;
+	min-height:300px;
+	overflow:auto;
+}
+.list_product{
+	width:200px;
+	height:220px;
+	border:solid thin;
+	float:left;
+	margin:10px 0 20px 20px;
+}
+.product_nama{
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+}
+.product_harga{
+	font-size:12px;
+	font-weight:bold;
+	color:#063;
+	text-align:center;
+}
+#product_detail{
+	width:inherit;
+	min-height:300px;
+	overflow:auto;
+}
+.product_detail_box{
+	width:450px;
+	height:500px;
+	float:left;
+}
+#cart{
+	width:200px;
+	height:50px;
+	float:right;
+	background:#390;
+	line-height:40px;
+	color:#FFF;
+	text-align:center;
+	font-size:16px;
+	position:fixed;
+	right:20px;
+	z-index:10000;
+}
+#welcome{
+	float: right;
+	margin: 120px 20px 0 0;
+}
