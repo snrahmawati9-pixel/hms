@@ -1,6 +1,6 @@
 
 # HMS - E-Commerce Sales Website
-HMS merupakan website penjualan e-commerce yang dikembangkan sebagai proyek praktik dalam kursus PHP for e-Application di BINUS Center Syahdan. 
+HMS merupakan website penjualan e-commerce yang dikembangkan sebagai proyek praktik dalam kursus PHP for e-Application di BINUS Center. 
 Website ini dirancang untuk mendukung aktivitas penjualan online melalui katalog produk, informasi detail produk, keranjang belanja, dan proses checkout.
 
 ## Fitur Website
@@ -27,9 +27,9 @@ Membuat dan mengelola database menggunakan phpMyAdmin serta mengintegrasikannya 
 Proyek ini bertujuan menerapkan pengetahuan dan keterampilan dalam pengembangan aplikasi web, pemrograman PHP, serta pengelolaan database untuk membangun website penjualan yang fungsional.
 
 ## Informasi Proyek
-Project Type: E-Commerce Website
-Course: PHP for e-Application
-Institution: BINUS Center 
+- Project Type: E-Commerce Website
+- Course: PHP for e-Application
+- Institution: BINUS Center 
 
 ## Live Demo
 Website dapat diakses melalui tautan berikut:
