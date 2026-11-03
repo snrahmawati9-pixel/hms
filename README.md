@@ -28,9 +28,10 @@ Proyek ini bertujuan menerapkan pengetahuan dan keterampilan dalam pengembangan 
 
 ## Informasi Proyek
 Project Type: E-Commerce Website
+Course: PHP for e-Application
+Institution: BINUS Center 
 
 ## Live Demo
 Website dapat diakses melalui tautan berikut:
 [Kunjungi HMS](https://ecommerce-hms.free.nf/)
-Course: PHP for e-Application
-Institution: BINUS Center Syahdan
+
