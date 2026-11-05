@@ -11,7 +11,7 @@ Website ini dirancang untuk mendukung aktivitas penjualan online melalui katalog
 - Halaman admin untuk pengelolaan produk
 - Integrasi database untuk pengelolaan data aplikasi
 
-## Teknologi yang Digunakan
+## Bahasa yang Digunakan
 - PHP
 - SQL
 - HTML
