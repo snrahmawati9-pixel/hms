@@ -124,6 +124,6 @@ hms/
 
 - **Jenis Proyek:** Website E-Commerce
 - **Program:** PHP for e-Application (Preparation for S1 Thesis)
-- **Institusi:** BINUS Center Syahdan
+- **Institusi:** BINUS Center 
 - **Periode:** November – Desember 2018
 - **Hasil:** High Distinction
